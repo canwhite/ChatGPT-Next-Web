@@ -131,6 +131,7 @@ const Markdown = dynamic(async () => (await import("./markdown")).Markdown, {
 
 export function SessionConfigModel(props: { onClose: () => void }) {
   const chatStore = useChatStore();
+  //todo，
   const session = chatStore.currentSession();
   const maskStore = useMaskStore();
   const navigate = useNavigate();
@@ -1588,6 +1589,7 @@ function _Chat() {
           </div>
         )}
 
+        {/* TODO,这一块是title的显示，但是这里有问题 */}
         <div className={`window-header-title ${styles["chat-body-title"]}`}>
           <div
             className={`window-header-main-title ${styles["chat-body-main-title"]}`}
