@@ -4,7 +4,7 @@
   <img src="./docs/images/ent.svg" alt="icon"/>
 </a>
 
-<h1 align="center">NextChat (ChatGPT Next Web)</h1>
+<h1 align="center">chatbox-dp (ChatGPT Next Web)</h1>
 
 English / [简体中文](./README_CN.md)
 
@@ -18,20 +18,20 @@ One-Click to get a well-designed cross-platform ChatGPT web UI, with GPT3, GPT4 
 [![MacOS][MacOS-image]][download-url]
 [![Linux][Linux-image]][download-url]
 
-[NextChatAI](https://nextchat.dev/chat?utm_source=readme) / [Web App](https://app.nextchat.dev) / [Desktop App](https://github.com/Yidadaa/ChatGPT-Next-Web/releases) / [Discord](https://discord.gg/YCkeafCafC) / [Enterprise Edition](#enterprise-edition) / [Twitter](https://twitter.com/NextChatDev)
+[chatbox-dpAI](https://chatbox-dp.dev/chat?utm_source=readme) / [Web App](https://app.chatbox-dp.dev) / [Desktop App](https://github.com/Yidadaa/ChatGPT-Next-Web/releases) / [Discord](https://discord.gg/YCkeafCafC) / [Enterprise Edition](#enterprise-edition) / [Twitter](https://twitter.com/chatbox-dpDev)
 
-[NextChatAI](https://nextchat.dev/chat) / [网页版](https://app.nextchat.dev) / [客户端](https://github.com/Yidadaa/ChatGPT-Next-Web/releases) / [企业版](#%E4%BC%81%E4%B8%9A%E7%89%88) / [反馈](https://github.com/Yidadaa/ChatGPT-Next-Web/issues)
+[chatbox-dpAI](https://chatbox-dp.dev/chat) / [网页版](https://app.chatbox-dp.dev) / [客户端](https://github.com/Yidadaa/ChatGPT-Next-Web/releases) / [企业版](#%E4%BC%81%E4%B8%9A%E7%89%88) / [反馈](https://github.com/Yidadaa/ChatGPT-Next-Web/issues)
 
-[saas-url]: https://nextchat.dev/chat?utm_source=readme
-[saas-image]: https://img.shields.io/badge/NextChat-Saas-green?logo=microsoftedge
-[web-url]: https://app.nextchat.dev/
+[saas-url]: https://chatbox-dp.dev/chat?utm_source=readme
+[saas-image]: https://img.shields.io/badge/chatbox-dp-Saas-green?logo=microsoftedge
+[web-url]: https://app.chatbox-dp.dev/
 [download-url]: https://github.com/Yidadaa/ChatGPT-Next-Web/releases
 [Web-image]: https://img.shields.io/badge/Web-PWA-orange?logo=microsoftedge
 [Windows-image]: https://img.shields.io/badge/-Windows-blue?logo=windows
 [MacOS-image]: https://img.shields.io/badge/-MacOS-black?logo=apple
 [Linux-image]: https://img.shields.io/badge/-Linux-333?logo=ubuntu
 
-[<img src="https://vercel.com/button" alt="Deploy on Zeabur" height="30">](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FChatGPTNextWeb%2FChatGPT-Next-Web&env=OPENAI_API_KEY&env=CODE&project-name=nextchat&repository-name=NextChat) [<img src="https://zeabur.com/button.svg" alt="Deploy on Zeabur" height="30">](https://zeabur.com/templates/ZBUEFA)  [<img src="https://gitpod.io/button/open-in-gitpod.svg" alt="Open in Gitpod" height="30">](https://gitpod.io/#https://github.com/Yidadaa/ChatGPT-Next-Web)
+[<img src="https://vercel.com/button" alt="Deploy on Zeabur" height="30">](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FChatGPTNextWeb%2FChatGPT-Next-Web&env=OPENAI_API_KEY&env=CODE&project-name=chatbox-dp&repository-name=chatbox-dp) [<img src="https://zeabur.com/button.svg" alt="Deploy on Zeabur" height="30">](https://zeabur.com/templates/ZBUEFA)  [<img src="https://gitpod.io/button/open-in-gitpod.svg" alt="Open in Gitpod" height="30">](https://gitpod.io/#https://github.com/Yidadaa/ChatGPT-Next-Web)
 
 [<img src="https://github.com/user-attachments/assets/903482d4-3e87-4134-9af1-f2588fa90659" height="60" width="288" >](https://monica.im/?utm=nxcrp)
 
@@ -48,7 +48,7 @@ Meeting Your Company's Privatization and Customization Deployment Requirements:
 - **Private Deployment**: Enterprise-level private deployment supporting various mainstream private cloud solutions, ensuring data security and privacy protection.
 - **Continuous Updates**: Ongoing updates and upgrades in cutting-edge capabilities like multimodal AI, ensuring consistent innovation and advancement.
 
-For enterprise inquiries, please contact: **business@nextchat.dev**
+For enterprise inquiries, please contact: **business@chatbox-dp.dev**
 
 ## 企业版
 
@@ -61,7 +61,7 @@ For enterprise inquiries, please contact: **business@nextchat.dev**
 - **私有部署**：企业级私有部署，支持各类主流私有云部署，确保数据安全和隐私保护
 - **持续更新**：提供多模态、智能体等前沿能力持续更新升级服务，常用常新、持续先进
 
-企业版咨询: **business@nextchat.dev**
+企业版咨询: **business@chatbox-dp.dev**
 
 <img width="300" src="https://github.com/user-attachments/assets/3d4305ac-6e95-489e-884b-51d51db5f692">
 
@@ -101,7 +101,7 @@ For enterprise inquiries, please contact: **business@nextchat.dev**
 ## What's New
 
 - 🚀 v2.15.4 The Application supports using Tauri fetch LLM API, MORE SECURITY! [#5379](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/issues/5379)
-- 🚀 v2.15.0 Now supports Plugins! Read this: [NextChat-Awesome-Plugins](https://github.com/ChatGPTNextWeb/NextChat-Awesome-Plugins)
+- 🚀 v2.15.0 Now supports Plugins! Read this: [chatbox-dp-Awesome-Plugins](https://github.com/ChatGPTNextWeb/chatbox-dp-Awesome-Plugins)
 - 🚀 v2.14.0 Now supports  Artifacts & SD 
 - 🚀 v2.10.1 support Google Gemini Pro model.
 - 🚀 v2.9.11 you can use azure endpoint now.
@@ -139,7 +139,7 @@ For enterprise inquiries, please contact: **business@nextchat.dev**
 ## 最新动态
 
 - 🚀 v2.15.4 客户端支持Tauri本地直接调用大模型API，更安全！[#5379](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/issues/5379)
-- 🚀 v2.15.0 现在支持插件功能了！了解更多：[NextChat-Awesome-Plugins](https://github.com/ChatGPTNextWeb/NextChat-Awesome-Plugins)
+- 🚀 v2.15.0 现在支持插件功能了！了解更多：[chatbox-dp-Awesome-Plugins](https://github.com/ChatGPTNextWeb/chatbox-dp-Awesome-Plugins)
 - 🚀 v2.14.0 现在支持 Artifacts & SD 了。
 - 🚀 v2.10.1 现在支持 Gemini Pro 模型。
 - 🚀 v2.9.11 现在可以使用自定义 Azure 服务了。
