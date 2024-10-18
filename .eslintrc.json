@@ -3,5 +3,11 @@
   "plugins": ["prettier", "unused-imports"],
   "rules": {
     "unused-imports/no-unused-imports": "warn"
+  },
+  "ignorePatterns": ["*.css"],
+  "parserOptions": {
+    "ecmaFeatures": {
+      "legacyDecorators": true
+    }
   }
 }
