@@ -231,6 +231,11 @@ export function SideBar(props: { className?: string }) {
         logo={<ChatGptIcon />}
         shouldNarrow={shouldNarrow}
       >
+        {/* <div className="flex flex-row w-full items-center p-[10px] justify-between bg-white text-red-500">
+          <div>时刻发挥开始的肌肤快速的减肥</div>
+          <div>123</div> 
+        </div> */}
+
         <div className={styles["sidebar-header-bar"]}>
           {/* 隐藏掉两个按钮 */}
           {/* <IconButton

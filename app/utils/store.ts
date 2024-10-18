@@ -3,6 +3,13 @@ import { combine, persist, createJSONStorage } from "zustand/middleware";
 import { Updater } from "../typing";
 import { deepClone } from "./clone";
 import { indexedDBStorage } from "@/app/utils/indexedDB-storage";
+/**
+create: 用于创建状态存储。
+combine, persist, createJSONStorage: zustand 的中间件，用于组合状态和实现持久化。
+Updater: 自定义类型，用于更新状态。
+deepClone: 用于深度克隆状态对象。
+indexedDBStorage: 自定义的 IndexedDB 存储实现。
+ */
 
 type SecondParam<T> = T extends (
   _f: infer _F,
